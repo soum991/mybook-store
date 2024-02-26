@@ -1,0 +1,258 @@
+
+
+
+#box1{
+    background:url(./Untitled\ design\ \(2\).jpg);
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+.cunt1{
+    align-items: start;
+}
+.options{
+    display:flex;
+    flex-direction: row;
+    overflow: hidden;
+   ;
+    
+    
+    
+    
+    
+   
+
+
+}
+.option4{
+   
+}
+.son{
+    
+}
+.om{
+    
+}
+
+.title{
+    font-weight: bold;
+    font-size: larger;
+}
+.MY{
+    font-size: larger;
+}
+
+.suggestions{
+    width:min-content;
+    
+    
+}
+.select{
+    font-size: large;
+}
+
+.select.select:hover{ 
+    background-color: #9EBEAD;
+   
+    
+
+}
+.navlink{
+    color: aliceblue;
+}
+
+.fst-italic{
+    font-size: medium;
+}
+
+
+.dropbd{
+    
+    margin: 10px;
+}
+
+.bookhing{
+    font-size: larger;
+    overflow-wrap: normal;
+}
+
+.image2{
+    height: 150px;
+    width: 200px;
+}
+
+.bookdirec{
+    display: flex;
+    flex-direction: row;
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px 1px #395458;
+    height: max-content;
+}
+
+.sdow{
+    margin: 20px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px 5px #395458;
+   
+    
+}
+
+.brdr{
+    border: 5px solid black;
+
+    
+    
+    
+}
+.bh{
+    
+}
+
+.slw{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+
+.fon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    padding: 5px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bookpic{
+    height: 250px;
+    width: 150px;
+    
+
+}
+
+.srch{
+    position: relative;
+    float: right;
+}
+
+
+
+.bookblock{
+    font-weight: bold;
+    font-size:large;
+
+}
+
+.clur>div>div:hover{
+    background-color: #9EBEAD;
+
+}
+.bag{
+    color: black;
+}
+.brn{
+    background-color: #9EBEAD;
+    
+    border-color: #9EBEAD;
+    color: black;
+}
+
+
+.strhd{
+    display: flex;
+    justify-content: center;
+}
+
+.rowledone{
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+    
+    
+}
+.container4{
+    background-color: #9EBEAD;
+}
+.rowingone{
+    padding: 2px;
+    
+    
+    border-radius: 25px;
+}
+.brd{
+    position: relative;
+    left: 10px;
+    bottom: 10px;
+}
+.checked {
+    color: orange;
+ }
+
+.price{
+    font-weight: bold;
+    font-size: large;
+}
+
+.btn-secondary{
+    background-color: #9EBEAD;
+}
+
+.lead{
+    color: aliceblue;
+}
+
+
+
+.blog{
+    overflow: hidden;
+}
+
+#box2{
+    background: url(./Untitled\ design\ \(2\).jpg);
+    background-size: cover;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.jind{
+    background: url(./Untitled\ design\ \(2\).jpg);
+}
+.blogph{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.flashcard{
+
+    
+    width: 100%;
+    height: auto;
+    
+}
+
+@media (max-width:600px){
+    .options{
+        display: flex;
+        flex-direction: column;
+    }
+    .rowledone{
+        display: flex;
+        flex-direction: column;
+    }
+    .brd{
+        position:relative;
+        left: 0;
+        bottom: 0;
+    }
+}
+
+.list-unstyled {
+    position: relative;
+    align-items: center;
+}
